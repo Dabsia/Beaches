@@ -9,7 +9,7 @@ const Details = () => {
         <div className='lg:col-span-2 flex flex-col justify-evenly'>
             <div>
                   <h2>LUXURY INCLUDED VACATIONS FOR TWO PEOPLE</h2>
-                  <p>lorem20</p>
+                  <p>Ullamco enim reprehenderit aute esse sint laborum occaecat deserunt eiusmod voluptate magna quis dolor. Veniam do velit labore officia duis occaecat sint ad velit commodo id esse laboris. Aute consequat velit magna nisi ea. Qui consequat do anim labore non eu magna et officia. Officia anim in cupidatat pariatur deserunt exercitation velit. Cillum nostrud deserunt nisi deserunt cupidatat magna occaecat culpa aliquip reprehenderit. Adipisicing minim dolore eu esse nulla eu exercitation quis exercitation culpa.</p>
             </div>
         </div>
         <div>RIGHT</div>
